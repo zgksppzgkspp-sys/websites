@@ -43,3 +43,14 @@ The advantages of Shizuku are:
 
 1. Minimal extra time and performance consumption
 2. It is almost identical to the direct invocation API experience (app developers only need to add a small amount of code)
+2023-06-01 15:32:22,675 [  56094]   WARN - ScreenSharingAgent Samsung SM-A045F API 33 - Too many video encoder errors:
+2023-06-01 15:32:22,676 [  56095]   WARN - ScreenSharingAgent Samsung SM-A045F API 33 - encoder: c2.android.vp8.encoder
+2023-06-01 15:32:22,676 [  56095]   WARN - ScreenSharingAgent Samsung SM-A045F API 33 - mime type: video/x-vnd.on2.vp8
+2023-06-01 15:32:22,676 [  56095]   WARN - ScreenSharingAgent Samsung SM-A045F API 33 - max resolution: 640x640
+2023-06-01 15:32:22,676 [  56095]   WARN - ScreenSharingAgent Samsung SM-A045F API 33 - min resolution: 2x2
+2023-06-01 15:32:22,676 [  56095]   WARN - ScreenSharingAgent Samsung SM-A045F API 33 - alignment: 2x2
+2023-06-01 15:32:22,676 [  56095]   WARN - ScreenSharingAgent Samsung SM-A045F API 33 - max frame rate: 960
+2023-06-01 15:32:22,676 [  56095]   WARN - ScreenSharingAgent Samsung SM-A045F API 33 - max frame rate for 288x640: 960
+2023-06-01 15:32:22,870 [  56289]   WARN - ScreenSharingAgent Samsung SM-A045F API 33 - max bitrate: 20000000
+2023-06-01 15:32:22,871 [  56290]   WARN - ScreenSharingAgent Samsung SM-A045F API 33 - terminated with code 1
+   
